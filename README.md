@@ -1,18 +1,43 @@
 ![Banner](https://github.com/abdur-rahman-raju/abdur-rahman-raju/blob/main/ChatGPT%20Image%20Sep%202,%202026,%2010_17_27%20PM.png?raw=true)
 
-# Hi 👋, I'm Abdur Rahman Raju
+## Hi 👋, I'm Abdur Rahman Raju
 
-### A budding Html developer
+**Full-Stack Web Developer** building responsive web apps with React, Next.js and Node.js.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdur-rahman-raju&label=Profile views&color=0e75b6&style=flat" alt="abdur-rahman-raju" /> </p>
+## 📍 About Me
+- 📍 Location: Gazipur, Bangladesh
+- 🔭 Currently working on: BazarDor, FitLog and Dev Stack
+- 🌱 Learning: Next.js, TypeScript, Node.js
 
-- 🌱 I'm currently learning **HTML , CSS , JavaScript , React.js**
+## 🛠️ Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/abdur-rahman-raju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abdur-rahman-raju" height="30" width="40" /></a>
-</p>
+**Languages**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="languages" />
 
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite" alt="frameworks" />
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyui" />
+
+**Tools & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,pnpm,vercel,netlify" alt="tools" />
+
+## 🚀 Featured Projects
+
+| Project | Description | Links |
+|---|---|---|
+| 🛒 **BazarDor** | Market price tracker for Bangladesh | [Live Demo](https://online-bazardor-website.vercel.app/) · [Code](https://github.com/abdur-rahman-raju/bazardor) |
+| 💪 **FitLog** | Workout library and daily planner | [Live Demo](https://inspiring-twilight-9ae5ef.netlify.app/) · [Code](https://github.com/abdur-rahman-raju/fitlog) |
+| 🧩 **Dev Stack** | Build your own tech stack | [Live Demo](https://cute-praline-6de017.netlify.app/) · [Code](https://github.com/abdur-rahman-raju/dev-stack) |
+
+## 🌐 Connect with me
+- 💼 LinkedIn: [abdur-rahman-raju-dev](https://www.linkedin.com/in/abdur-rahman-raju-dev/)
+- 🐙 GitHub: [abdur-rahman-raju](https://github.com/abdur-rahman-raju)
+- 📧 Email: abdurrahmanraju13b@gmail.com
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdur-rahman-raju&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-rahman-raju&layout=compact&theme=radical)
