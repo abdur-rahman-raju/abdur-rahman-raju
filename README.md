@@ -24,14 +24,11 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,pnpm,vercel,netlify" alt="tools" />
 
-## 🚀 Featured Projects
-
 | Project | Description | Links |
 |---|---|---|
-| 🛒 **BazarDor** | Market price tracker for Bangladesh | [Live Demo](https://online-bazardor-website.vercel.app/) · [Code](https://github.com/abdur-rahman-raju/bazardor) |
-| 💪 **FitLog** | Workout library and daily planner | [Live Demo](https://inspiring-twilight-9ae5ef.netlify.app/) · [Code](https://github.com/abdur-rahman-raju/fitlog) |
-| 🧩 **Dev Stack** | Build your own tech stack | [Live Demo](https://cute-praline-6de017.netlify.app/) · [Code](https://github.com/abdur-rahman-raju/dev-stack) |
-
+| 🛒 **BazarDor** | Market price tracker for Bangladesh | [Live Demo](https://online-bazardor-website.vercel.app/) · [Code](https://github.com/abdur-rahman-raju/online-bazardor-website) |
+| 💪 **FitLog** | Workout library and daily planner | [Live Demo](https://inspiring-twilight-9ae5ef.netlify.app/) · [Code](https://github.com/abdur-rahman-raju/my-fit-got) |
+| 🧩 **Dev Stack** | Build your own tech stack | [Live Demo](https://cute-praline-6de017.netlify.app/) · [Code](https://github.com/abdur-rahman-raju/react-devStack-app) |
 ## 🌐 Connect with me
 - 💼 LinkedIn: [abdur-rahman-raju-dev](https://www.linkedin.com/in/abdur-rahman-raju-dev/)
 - 🐙 GitHub: [abdur-rahman-raju](https://github.com/abdur-rahman-raju)
